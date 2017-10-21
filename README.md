@@ -101,6 +101,8 @@ http://www.pm265.com/
 >MDN Web文档  
 https://developer.mozilla.org/zh-CN/
 
+>shape在线生成  
+http://shapes.softartstudio.com/
 
 
 # AndroidStudio插件  
