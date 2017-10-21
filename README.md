@@ -216,6 +216,9 @@ https://www.mukedaba.com/forum.php
 >android知识  
 >http://www.jianshu.com/c/3fde3b545a35
 
+>InterviewQuestion 面试常见问题
+https://github.com/leerduo/InterviewQuestion
+
 
 # Android汇总导航
 >开发者网址导航  
@@ -230,3 +233,6 @@ https://github.com/zktzktzkt/AndroidGuide
 
 >MobDevGroup  
 http://mobdevgroup.com/
+
+>Android开发资源汇总  
+http://www.jianshu.com/p/0c36302e0ed0
