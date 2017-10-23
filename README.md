@@ -106,10 +106,10 @@ http://shapes.softartstudio.com/
 
 
 # AndroidStudio插件  
->awesome-androidstudio-plugins
+>awesome-androidstudio-plugins  
 https://github.com/jiang111/awesome-androidstudio-plugins
 
->AndroidStudio插件整理
+>AndroidStudio插件整理  
 https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/
 
 # 系统学习
@@ -168,7 +168,7 @@ http://weishu.me/
 >红鸟网络Android团队Blog  
 https://hndeveloper.github.io/
 
->Android Blog周刊
+>Android Blog周刊  
 http://www.androidblog.cn/index.php/Index/index/p/1
 
 
