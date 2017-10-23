@@ -69,6 +69,8 @@ https://github.com/navasmdc/MaterialDesignLibrary
 >AndroidResources  
 https://github.com/MobDevGroup/AndroidResources
 
+>Android博客周刊  
+http://www.androidblog.cn/index.php/Source/index/p/1
 
 
 # 示例代码，告诉你一些开源的库该怎么用
