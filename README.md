@@ -113,7 +113,7 @@ https://github.com/jiang111/awesome-androidstudio-plugins
 https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/
 
 # Chrome插件
->chrome插件  
+>chrome插件  
 http://stormzhang.com/devtools/2016/01/15/google-chrome-extension/
 
 # 系统学习
